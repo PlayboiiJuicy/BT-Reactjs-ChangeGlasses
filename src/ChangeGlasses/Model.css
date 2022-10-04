@@ -1,0 +1,36 @@
+/* .wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.model--left,
+.model--right {
+  width: 50%;
+  position: relative;
+}
+
+.model--left img:first-of-type,
+.model--right img:first-of-type {
+  width: 50%;
+}
+
+.model--left img:last-of-type {
+  position: absolute;
+  top: 98px;
+  left: 245px;
+}
+
+.infoGlasses {
+  color: white;
+  background-color: rgb(3, 3, 3, 0.5);
+  position: absolute;
+  bottom: 0px;
+  left: 162px;
+  width: 50%;
+}
+
+.model--right img:last-of-type {
+  position: absolute;
+  top: 98px;
+  left: 245px;
+} */
