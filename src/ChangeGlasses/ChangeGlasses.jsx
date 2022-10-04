@@ -8,7 +8,7 @@ export default class ChangeGlasses extends Component {
     super(props);
 
     this.state = {
-      selectedGlasses: data[0],
+      selectedGlasses: null,
     };
   }
 

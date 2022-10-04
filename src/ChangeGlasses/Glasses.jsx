@@ -8,7 +8,7 @@ const Glasses = ({ data, onSelect }) => {
           return (
             <button
               style={{
-                border: "1px solid rgb(0,0,0,0.5)",
+                border: "1px solid rgb(0,0,0,0.2)",
                 backgroundColor: "transparent",
               }}
               onClick={() => {
