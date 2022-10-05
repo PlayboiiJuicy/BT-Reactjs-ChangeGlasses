@@ -17,7 +17,7 @@ const Glasses = ({ data, onSelect }) => {
               className="col-2 m-2 p-2"
               key={value.id}
             >
-              <img src={value.url} alt={idx} width="100%" height="100px" />
+              <img src={value.url} alt={idx} width="100%" height="80px" />
             </button>
           );
         })}
